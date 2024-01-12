@@ -1,0 +1,22 @@
+.title {
+    margin-top: 80px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 400px;
+    height: 500px;
+    width: 500px;
+    border-width: 3px;
+    border-style: groove;
+    border-color: black;
+    border-radius: 30px;
+}
+
+.input {
+    border-radius: 10px;
+    border-width: 1px;
+    border-color: rgb(11, 1, 1);
+}
+
+input:hover {
+    background-color: rgb(246, 246, 164);
+}
